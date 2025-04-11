@@ -1,3 +1,3 @@
-# OIBSIP
-## My name is SPARSH GANGIL repo for Java Project.
+#JAVA project
+## repo for Java Project.
 
